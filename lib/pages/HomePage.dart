@@ -47,8 +47,6 @@ class _HomePageState extends State<HomePage> {
     final Widget svg = SvgPicture.asset(
       assetName,
       semanticsLabel: 'Acme Logo',
-      color: Colors.white,
-      colorBlendMode: BlendMode.srcIn,
     );
 
     return Scaffold(
@@ -122,7 +120,7 @@ class _HomePageState extends State<HomePage> {
                 Card(
                   color: Colors.transparent,
                   child: asset('assets/world.svg', context,
-                      height: 665.96301 * 0.9, width: 1009.6727),
+                      height: 500, width: 1000),
                 ),
                 Card(
                   child: Row(
