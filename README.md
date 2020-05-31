@@ -1,6 +1,13 @@
-# infoone
+# InfoOne
 
-Information One tool appliction.
+InfoOne is a platform that helps the government in pandemic crisis on decision-make, it uses AI to correlate data provenient from NASA, JAXA and governamental databases to predict and detect models to help the corona vírus from spreading.
+Short timed decisions require a better foundation and can cause a great impact. Using correlated data from many trusted databases helps us to see better ways, stopping the spread in a pandemic crisis.
+
+MVP Application for [NASA Space Apps COVID-19 Challenge](https://www.spaceappschallenge.org/)
+
+For the Challenge [Where There’s a Link, There’s a Way](https://covid19.spaceappschallenge.org/challenges/covid-challenges/where-theres-a-link-theres-a-way/details)
+
+With the team [Space Invaders](https://covid19.spaceappschallenge.org/challenges/covid-challenges/where-theres-a-link-theres-a-way/teams/space-invaders-3/project)
 
 ## Getting Started
 
